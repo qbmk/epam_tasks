@@ -1,0 +1,3 @@
+db.staff.insertOne({ name: "Alice", age: 25, city: "London", married: true, hobbies: ["Travelling", "Swimming", "Cooking"] })
+db.staff.insertOne({ name: "Bob", age: 29, city: "Liverpool", married: false, hobbies: ["Hiking", "Watching movies", "Driving"] })
+db.staff.insertOne({ name: "Winnie", age: 25, city: "Bristol", married: true, hobbies: ["Playing chess", "Surfing", "Painting"] })
